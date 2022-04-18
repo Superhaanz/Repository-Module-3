@@ -3,40 +3,46 @@
   padding: 0;
   
 }
-.navbar{
 
+.navbar-nav, .nav {
+  background-color: grey;
+}
+
+
+.navbar {
 border: none;
 background-color: black;
-color: #61122F;
+
 }
+
+
+
 body{
-  background-color: #61122F;
+  background-color: mediumpurple;
   color: white;
-}
-.glyphicon{
-  font-size: 30px;
-  color:#61122F; 
+  color
 }
 
 .center{
   width: 90%;
-  background-color: grey;
+  background-color: darkviolet;
 
 }
 .container
 {
-  background-color: grey;
+  background-color: darkviolet;
   width: 80%;
 }
 .text-center{
   font-size: 30px;
+  color: black;
 }
 
 h2{
   text-align: center;
 }
 #myNavbar ul li a {
-  color: #61122F;
+  color: Black;
 }
 .navbar-brand{
 font-size: 30px;  
